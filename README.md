@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tutorial Transições de rotas animadas com React⚛️ e React Router Dom!
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+![](https://1.bp.blogspot.com/-pWA4kIn-h6Q/XzkcGlZomII/AAAAAAABCm0/U3ucEqbBjkU33JWTHt7dIiyXIKg5AFNDwCLcBGAsYHQ/s640/maxresdefault.jpg)
 
-### `yarn start`
+</div>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[![Followers](https://img.shields.io/badge/Youtube-Inscreva--se-red)](http://youtube.com/tuliocalil)[![Followers](https://img.shields.io/github/followers/tuliocll?style=social)](https://github.com/tuliocll)[![Stars](https://img.shields.io/github/stars/tuliocll/sagres-bot?style=social)](#)[![Follow](https://img.shields.io/twitter/follow/tuliocalil?style=social)](https://twitter.com/BotSagres)
 
-### `yarn test`
+</div>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📖Sobre
 
-### `yarn build`
+Este repositorio contem o projeto final do tutorial de animações nas rotas com react router dom.
+Link para o tutorial: https://youtu.be/lMLqvaq5r4Y
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 👨🏿‍💻Rodando o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clonar o repositorio:
 
-### `yarn eject`
+```
+git clone https://github.com/tuliocll/rn-darkmode.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Instale as dependencias:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+yarn
+ou
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Rode o projeto:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+yarn start
+ou
+npm start
+```
 
-## Learn More
+## 🎦Outros vídeo(s);
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Tutorial  | Link
+------------- | -------------
+DarkMode StyledComponents  | https://youtu.be/nJN7UNZetlg
+Animação Tutorial Pt.1  | https://youtu.be/AAYd5Vob0jY
+Animação Tutorial Pt.2  | https://youtu.be/Qc3j55C_1U8
+Context API e React Navigation  | https://youtu.be/cLkX5MtZjEo
+Context API e Async Storage  | https://youtu.be/gPpH-mTEwbM
+React Navigation: Alterando Rotas e Parâmetros  | https://youtu.be/C2k6kwSi9FY
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### 🙅🏿‍♂️End
